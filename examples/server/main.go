@@ -1,7 +1,7 @@
 package main
 
 import (
-	grpcserver "github.com/apssouza22/grpc-production-go/server"
+	grpcserver "github.com/AntonioSun/grpc-go-production-ready/server"
 )
 
 func main() {

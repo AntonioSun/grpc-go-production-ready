@@ -2,8 +2,8 @@ package grpc_client
 
 import (
 	"context"
-	"github.com/apssouza22/grpc-production-go/grpcutils"
-	"github.com/apssouza22/grpc-production-go/tlscert"
+	"github.com/AntonioSun/grpc-go-production-ready/grpcutils"
+	"github.com/AntonioSun/grpc-go-production-ready/tlscert"
 	"google.golang.org/grpc/examples/helloworld/helloworld"
 	"google.golang.org/grpc/health/grpc_health_v1"
 	"google.golang.org/grpc/metadata"

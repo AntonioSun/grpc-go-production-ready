@@ -2,11 +2,11 @@ package grpc_client
 
 import (
 	"context"
-	"github.com/apssouza22/grpc-production-go/grpcutils"
-	grpc_server "github.com/apssouza22/grpc-production-go/server"
-	"github.com/apssouza22/grpc-production-go/testdata"
-	gtest "github.com/apssouza22/grpc-production-go/testing"
-	"github.com/apssouza22/grpc-production-go/tlscert"
+	"github.com/AntonioSun/grpc-go-production-ready/grpcutils"
+	grpc_server "github.com/AntonioSun/grpc-go-production-ready/server"
+	"github.com/AntonioSun/grpc-go-production-ready/testdata"
+	gtest "github.com/AntonioSun/grpc-go-production-ready/testing"
+	"github.com/AntonioSun/grpc-go-production-ready/tlscert"
 	"github.com/stretchr/testify/assert"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/examples/helloworld/helloworld"

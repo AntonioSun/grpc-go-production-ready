@@ -2,10 +2,10 @@ package testing
 
 import (
 	"context"
-	"github.com/apssouza22/grpc-production-go/testdata"
+	"github.com/AntonioSun/grpc-go-production-ready/testdata"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/apssouza22/grpc-production-go/grpcutils"
+	"github.com/AntonioSun/grpc-go-production-ready/grpcutils"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/examples/helloworld/helloworld"
 	"testing"

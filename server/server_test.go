@@ -1,8 +1,8 @@
 package grpc_server
 
 import (
-	"github.com/apssouza22/grpc-production-go/grpcutils"
-	"github.com/apssouza22/grpc-production-go/tlscert"
+	"github.com/AntonioSun/grpc-go-production-ready/grpcutils"
+	"github.com/AntonioSun/grpc-go-production-ready/tlscert"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

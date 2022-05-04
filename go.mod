@@ -1,4 +1,4 @@
-module github.com/apssouza22/grpc-production-go
+module github.com/AntonioSun/grpc-go-production-ready
 
 go 1.13
 
